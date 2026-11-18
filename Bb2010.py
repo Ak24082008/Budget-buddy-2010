@@ -44,4 +44,4 @@ with tab1:
 
         if total_expenses > income:
             st.error("Your expenses are higher than your income!")
-        elif
+        
